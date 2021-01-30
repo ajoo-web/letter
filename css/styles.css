@@ -1,0 +1,37 @@
+body{
+  background-color: #eeecda;
+  font-family: "Nanum Pen Script";
+
+}
+h1{
+  font-size: 5rem;
+}
+h3{
+  font-size: 3.5rem;
+  -webkit-text-stroke: 0.8px black;
+}
+
+#title{
+  text-align: center;
+  padding: 30% 10%;
+}
+#context{
+  margin: 1rem 0;
+}
+
+.outline{
+  padding: 1% 2%;
+}
+.arrow{
+  height: 50px;
+}
+
+.navbar{
+  background-color: #d3c09a;
+
+}
+.navbar-brand{
+  font-size: 2rem;
+
+  text-align: center;
+}
